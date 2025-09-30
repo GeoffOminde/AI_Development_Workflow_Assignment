@@ -9,7 +9,7 @@ It includes notebooks, scripts, sample datasets, a PDF report, and visual diagra
 ---
 
 ## Repository Structure
-
+```
 AI_Development_Workflow_Assignment/
 │
 ├── notebooks/
@@ -34,7 +34,7 @@ AI_Development_Workflow_Assignment/
 │
 ├── requirements.txt # Python dependencies
 └── README.md # This file
-
+```
 
 ---
 
