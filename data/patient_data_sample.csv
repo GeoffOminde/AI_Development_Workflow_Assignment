@@ -1,0 +1,11 @@
+PatientID,Age,Gender,DiagnosisCode,PreviousAdmissions,Readmission
+1,65,M,I10,2,1
+2,50,F,E11,0,0
+3,78,F,I50,1,1
+4,45,M,J44,0,0
+5,60,F,I21,3,1
+6,70,M,E78,1,0
+7,55,F,I10,2,1
+8,62,M,E11,1,0
+9,80,F,I50,4,1
+10,48,M,J44,0,0
